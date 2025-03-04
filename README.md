@@ -1,4 +1,6 @@
-![Description of the GIF](./readme_src/media/githubgif0.gif)
+<div align="center">
+  <img src="./readme_src/media/githubgif0.gif" width="300">
+</div>
 
 # The Blueprint Library
 A collection of customized classroom projects
