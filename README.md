@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img src="./readme_src/media/githubgif0.gif" width="500">
 </div>
 
