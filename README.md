@@ -5,6 +5,6 @@
   </video>
 </div>
 
-# The Blueprint Library
+# 📚 The Blueprint Library
 A collection of customized classroom projects
 
